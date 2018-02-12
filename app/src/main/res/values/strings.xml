@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RaidScreenReader</string>
+    <string name="manual1">Welcome to the Raid Screen Reader! Here\'s how it works:</string>
+    <string name="manual2">1. When you see a raid, make a screenshot of the gym.\n Make sure the gym name is clearly visible.</string>
+    <string name="manual3">2. Share the screenshot with me using the \"share\" option.</string>
+    <string name="manual4">That\'s it! I will read the screenshot, and talk with PieterBass\' raid bot. Then I\'ll send it to the channel.</string>
+    <string name="manual5">Enjoy!</string>
+</resources>
